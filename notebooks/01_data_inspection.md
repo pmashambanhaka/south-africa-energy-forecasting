@@ -4,7 +4,7 @@
 
 Dataset name: Eskom historical hourly demand data  
 Source: Eskom Data Portal  
-File received: ESK19242.csv
+File: ESK19242.csv
 
 ## Purpose of the Dataset
 

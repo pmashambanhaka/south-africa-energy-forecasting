@@ -134,3 +134,6 @@ In this step, we cleaned the raw Eskom dataset by:
 - creating time-based features for analysis.
 
 The dataset is now ready for exploratory data analysis.
+
+
+The cleaned dataset contains 37,512 hourly demand records. The average RSA contracted demand is approximately 24,815, with values ranging from about 16,621 to 34,666. This shows that electricity demand varies significantly over time, making it suitable for time-series analysis and forecasting.

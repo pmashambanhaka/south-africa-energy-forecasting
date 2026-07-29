@@ -38,7 +38,7 @@ This project explores how historical electricity, time-based, and related extern
 - Jupyter Notebook
 - Git and GitHub
 
-## Planned Project Structure
+## Project Structure
 
 ```text
 south-africa-energy-forecasting/
